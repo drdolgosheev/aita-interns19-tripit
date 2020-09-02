@@ -1,0 +1,23 @@
+Id: 1050104603
+Relative_url: 
+Start date: 2019-07-20
+End date: 2019-07-21
+Is_client_travaler: true
+Display_name: test_hotel
+Upplier_conf_num: #Confirmation_test
+Supplier_name: test_hotel
+Is_purchased: true
+Is_tripit_booking: false
+Number_guests: 3
+Number_rooms: 2
+Start_date: 2019-07-20
+Start_time: 08:00:00
+Start_timezone: Pacific/Midway
+Start_uts_offset: -11:00
+End_date: 2019-07-21
+End_time: 08:00:00
+End_timezone: Pacific/Midway
+End_uts_offset: -11:00
+Adress: test_adress
+Guest_name: test_name
+Guest_tiket_num: #test_ticket

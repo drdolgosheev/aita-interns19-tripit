@@ -1,0 +1,11 @@
+Id: 274130101
+Relative_url: /trip/show/id/274130101
+Start date: 2019-07-11
+End date: 2019-07-20
+Trip name: test
+Address: Moscow, Russia
+City: Moscow
+State: Moscow
+Country: RU
+Latitude: 55.752220
+Longitude: 37.615560
